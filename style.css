@@ -43,18 +43,19 @@ body {
 }
 
 .outline {
-    max-width: 700px;
+    max-width: 750px;
     background-color: var(--White);
-    margin: auto;
+    margin-inline: auto;
     border-radius: 40px;
+    margin-top: 40px;
 }
 
 section {
-    margin-inline: 3rem;
+    margin-inline: 2.7rem;
 }
 
 .header {
-    padding: 3rem 3rem 2rem 3rem;
+    padding: 2.7rem;
 }
 
 .header figure{
@@ -73,7 +74,7 @@ section {
     font-family: var(--serif--Regular);
     margin-bottom: 1.2rem;
     font-size: 2.4rem;
-    color: var(--Dark--Charcoal);
+    color: var(--Wenge--Brown;
 }
 
 .header-info {
